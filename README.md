@@ -1,4 +1,4 @@
-# vueAdmin-template
+# vue-admin
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
